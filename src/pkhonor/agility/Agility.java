@@ -1,12 +1,9 @@
-package pkhonor;
+package pkhonor.agility;
 
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Point;
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
 
 import org.parabot.core.Context;
 import org.parabot.environment.api.interfaces.Paintable;

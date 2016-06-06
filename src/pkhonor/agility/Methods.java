@@ -1,4 +1,4 @@
-package pkhonor;
+package pkhonor.agility;
 
 import java.awt.Point;
 import java.io.BufferedReader;
