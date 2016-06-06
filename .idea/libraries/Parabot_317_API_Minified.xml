@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Parabot-317-API-Minified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Parabot-317-API-Minified.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Parabot-V2.1.04rc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
